@@ -8,8 +8,9 @@ public class Anagrams {
 		 String b = "aaaaaaaaaassssa";
 		
 		 boolean isAnagram = false;
-		 
-//		 boolean visited[] = new boolean[b.length()];
+	 		
+		                                        //			diffrent logic for the problem 
+// 		boolean visited[] = new boolean[b.length()];
 //		 
 //		 if(a.length() == b.length()) {
 //			 
