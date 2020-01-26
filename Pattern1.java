@@ -1,6 +1,6 @@
 package NestedForLoops;
 import java.util.Scanner;
-public class PrintStars {
+public class Pattern1 {
 
 	public static void main(String[] args) {
 
