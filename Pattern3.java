@@ -5,11 +5,15 @@ import java.util.Scanner;
 public class Pattern3 {
 
 	public static void main(String[] args) {
+
+// 		import scanner class for user input
 		
 		Scanner sc = new Scanner(System.in);
 			
 		int n = sc.nextInt();
 			
+// 		using nested for-loops for printing the output
+		
 		for(int i=1;i<=n;i++) {
 	
 			for(int j=1; j<=i-1 ; j++) {
@@ -27,7 +31,9 @@ public class Pattern3 {
 
 }
 
-//* * * * * 
+
+// output
+// * * * * * 
 //  * * * * 
 //    * * * 
 //      * * 
