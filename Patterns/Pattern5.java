@@ -26,7 +26,7 @@ public class Pattern5 {
 	}
 
 } 
-      
+//   output    
 //        * 
 //      * * 
 //    * * * 
