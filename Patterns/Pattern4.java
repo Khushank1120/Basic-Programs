@@ -24,7 +24,7 @@ public class Pattern4 {
 
 
 
-	
+// output	
 //* * * * * 
 //* * * * 
 //* * * 
